@@ -1,0 +1,9 @@
+# Site settings
+title: "Test Home"
+description: "Training and guides for test"
+baseurl: ""
+url: "localhost:4000"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
